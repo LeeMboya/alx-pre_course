@@ -1,1 +1,1 @@
-First dir
+First directory
